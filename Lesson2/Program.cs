@@ -8,6 +8,8 @@ namespace Lesson2
         {
             Console.WriteLine("Hello");
             Console.WriteLine("Hello");
+            Console.WriteLine("Hello"); Console.WriteLine("Hello");
+
         }
 
         private static void Test70()
