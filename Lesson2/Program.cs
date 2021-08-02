@@ -7,6 +7,7 @@ namespace Lesson2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello");
+            Console.WriteLine("Hello");
         }
 
         private static void Test70()
